@@ -6,7 +6,6 @@
 #### Recém formado em Sistemas de Informação, apaixonado pelo mundo tech! Atualmente estou em constante aprendizado front-end e back-end para agregar maior conhecimento profissional. 
 
 ***
-<br>
 
 #### - 👨‍🎓 Analista de Sistemas
 #### - ⏳ Pós graduando em Banco de Dados
