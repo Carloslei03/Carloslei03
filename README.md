@@ -1,5 +1,4 @@
 ### Olá! Eu sou Carlos Leite 👨‍💻
-<br>
 
 ***
         
