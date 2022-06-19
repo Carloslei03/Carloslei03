@@ -1,20 +1,14 @@
 ### Olá! Eu sou Carlos Leite
+        
+        Recém formado em Sistemas de Informação, apaixonado pelo mundo tech! Atualmente estou em constante aprendizado front-end 
+        e back-end para agregar maior conhecimento profissional. 
 
 
-- 🎓 Recém formado em Sistemas de Informação - Analista de Sistemas
-- ⏳ Pós Graduação de Banco de Dados em andamento
-- 📌 Em constante aprendizado, fazendo o curso Oracle SQL Explorer   
+- 🎓 Analista de Sistemas
+- ⏳ Pós graduando em Banco de Dados
+- ⏳ Oracle SQL Explorer   
 - 📌 Desenvolvendo um sistema de estoque para vendas de perfumes em Java e Mysql
-
-<div style="display: inline_block"><br>
-  <a href="https://www.facebook.com/violao.carlos/">
-  <img align="center" alt="Carlos-Facebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"><br><br>
-    <a href="https://www.linkedin.com/in/carlos-eduardo-bonfim-leite-3b4905174/">
-  <img align="center" alt="Carlos-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"><br><br>
-      <a href="https://www.instagram.com/violao.carlos/">
-  <img align="center" alt="Carlos-Instagram" height="30" width="40" src="https://www.svgrepo.com/show/299481/instagram.svg"><br><br>
-<div/><br>
-
+<br><br>
 <div align="center">
   <a href="https://github.com/carloslei03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosleite&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
@@ -23,14 +17,25 @@
   
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Carlos-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Carlos-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Carlos-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </div>
   
   <p align="center">
     <img alt="Carlospic" height="512" width="512" src="https://monophy.com/media/h1P7D7wU1lD4crNlk7/monophy.gif">
-  </p>  
+  </p> 
+  
+  <div align="center">
+  <a href="https://www.instagram.com/violao.carlos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:violao.carlos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlos-eduardo-bonfim-leite-3b4905174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
