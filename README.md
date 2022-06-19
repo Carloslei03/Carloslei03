@@ -1,4 +1,4 @@
-# Carlos Leite 👨‍💻
+# Carlos Leite
 
 ***
         
