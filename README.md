@@ -1,13 +1,17 @@
-### Olá! Eu sou Carlos Leite
+### Olá! Eu sou Carlos Leite 👨‍💻
+<br>
+
+***
         
-        Recém formado em Sistemas de Informação, apaixonado pelo mundo tech! Atualmente estou em constante aprendizado
-        front-end e back-end para agregar maior conhecimento profissional. 
+#### Recém formado em Sistemas de Informação, apaixonado pelo mundo tech! Atualmente estou em constante aprendizado front-end e back-end para agregar maior conhecimento profissional. 
 
+***
+<br>
 
-- 🎓 Analista de Sistemas
-- ⏳ Pós graduando em Banco de Dados
-- ⏳ Oracle SQL Explorer   
-- 📌 Desenvolvendo um sistema de estoque para vendas de perfumes em Java e Mysql
+#### - 👨‍🎓 Analista de Sistemas
+#### - ⏳ Pós graduando em Banco de Dados
+#### - ⏳ Oracle SQL Explorer   
+#### - 🔨 Desenvolvendo um sistema de estoque para vendas de perfumes em Java e Mysql
 <br><br>
 <div align="center">
   <a href="https://github.com/carloslei03">
