@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/carlos-eduardo-bonfim-leite-3b4905174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><br>
                   
   ![tumblr_nlshv1OwiB1s6w6foo1_500](https://user-images.githubusercontent.com/66281554/174463251-7747a119-c2b1-4b6f-b6cf-da226c7b512d.gif)
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
   
 </div>
         
