@@ -1,7 +1,7 @@
 ### Olá! Eu sou Carlos Leite
         
-        Recém formado em Sistemas de Informação, apaixonado pelo mundo tech! Atualmente estou em constante aprendizado front-end 
-        e back-end para agregar maior conhecimento profissional. 
+        Recém formado em Sistemas de Informação, apaixonado pelo mundo tech! Atualmente estou em constante aprendizado
+        front-end e back-end para agregar maior conhecimento profissional. 
 
 
 - 🎓 Analista de Sistemas
