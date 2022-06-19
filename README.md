@@ -11,6 +11,7 @@
 #### - ⏳ Oracle SQL Explorer   
 #### - 🔨 Desenvolvendo um sistema de estoque para vendas de perfumes em Java e Mysql
 
+***
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,29 +23,20 @@
   <img align="center" alt="Carlos-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Carlos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </div>
-  <br>
-
-<div align="center">
-  <a href="https://github.com/carloslei03">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosleite&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosleite&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
+  <br> 
   
-  
-  
-  <p align="center">
-    <img alt="Carlospic" height="512" width="512" src="https://monophy.com/media/h1P7D7wU1lD4crNlk7/monophy.gif">
-  </p> 
+  <div align="center">
+        
+  ![tumblr_nlshv1OwiB1s6w6foo1_500](https://user-images.githubusercontent.com/66281554/174463251-7747a119-c2b1-4b6f-b6cf-da226c7b512d.gif)
+        
+  </div>
   
   <div align="center">
   <a href="https://www.facebook.com/violao.carlos/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/violao.carlos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:violao.carlos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-eduardo-bonfim-leite-3b4905174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><br>
-                  
-  ![tumblr_nlshv1OwiB1s6w6foo1_500](https://user-images.githubusercontent.com/66281554/174463251-7747a119-c2b1-4b6f-b6cf-da226c7b512d.gif)
- 
-  
+  <a href="https://www.linkedin.com/in/carlos-eduardo-bonfim-leite-3b4905174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><br> 
 </div>
-        
+    
+***    
         
