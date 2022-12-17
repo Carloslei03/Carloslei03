@@ -7,9 +7,8 @@
 ***
 
 ##### - 👨‍🎓 Analista de Sistemas
-##### - ⏳ Pós graduação em Banco de Dados
-##### - ⏳ Oracle SQL Explorer   
-##### - 🔨 Desenvolvendo um sistema de estoque para vendas de perfumes em Java e Mysql
+##### - ⏳ Pós em Data Science and Big Data Analytics
+##### - ⏳ Certification - Google Data Analytics
 
 ***
 
