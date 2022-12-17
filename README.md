@@ -8,7 +8,7 @@
 
 ##### - 👨‍🎓 Analista de Sistemas
 ##### - ⏳ Pós em Data Science e Big Data Analytics
-##### - ⏳ Certificação - Google Data Analytics
+##### - ⏳ Certificação Google Data Analytics
 
 ***
 
