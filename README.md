@@ -5,7 +5,7 @@
 #### Apaixonado pelo universo de dados e a resolver problemas que seus insights, dentro de um contexto, podem nos proporcionar. Atualmente buscando emprego na área para obter, e agregar experiência profissional.
 ***
 
-##### - 👨‍🎓 Analista de Sistemas
+##### - 👨‍🎓 Sistemas de Informação
 ##### - ⏳ Pós em Data Science e Big Data Analytics
 ##### - ⏳ Certificação Google Data Analytics
 
