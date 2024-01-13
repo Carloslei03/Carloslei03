@@ -2,7 +2,8 @@
 
 ***
         
-#### Apaixonado pelo universo de dados e a resolver problemas que seus insights, dentro de um contexto, podem nos proporcionar. Atualmente buscando emprego na área para obter, e agregar experiência profissional.
+#### Apaixonado por dados,  e os insight's que ele pode nos proporcionar. Atualmente, buscando emprego na área de dados para obter experiência profissional e a cada dia poder agregar mais de forma colaborativa.
+
 ***
 
 ##### - 👨‍🎓 Sistemas de Informação
