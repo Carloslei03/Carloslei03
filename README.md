@@ -6,8 +6,8 @@
 
 ***
 
-##### - 👨‍🎓 Sistemas de Informação
-##### - 👨‍🎓 Pós em Data Science e Big Data Analytics
+##### - 👨‍🎓 Analista de Sistemas
+##### - 👨‍🎓 Data Science e Big Data Analytics
 ##### - ✔️ Certificação Google Data Analytics
 
 ***
